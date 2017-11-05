@@ -1,0 +1,8 @@
+node_modules/*
+.vscode/*
+public/dist/
+
+
+src/tests/
+.env.test
+.env.development
